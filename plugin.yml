@@ -1,0 +1,13 @@
+name: PDGHTempoOnline
+main: me.mchiappinam.pdghtempoonline.Main
+author: mchiappinam
+version: 1.0
+website: http://pdgh.com.br/
+depends: Vault
+commands:
+   online:
+      description: Info.
+      usage: /<command>
+   onlineconsole:
+      description: Info.
+      usage: /<command>

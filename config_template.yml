@@ -1,0 +1,8 @@
+mySQL:
+  ip: localhost
+  porta: 3306
+  usuario: root
+  senha: 123
+  db: dayz_online
+  tabela: jogadores
+valor: 5.0
